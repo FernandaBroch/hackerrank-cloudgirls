@@ -7,4 +7,3 @@
    - Somente as mentees devem programar, os líderes somente guiarão na implementação (dando sugestões e falando sobre diferentes formas de fazer).
    - Rotacione as mentees de 5-10 min, sugiro fazer com que de tempo de rodar pelo menos 2x cada (se jogar timer no google ele já tem um embutido).
    - Depois de elas chegarem na resolução, as mentoras irão sugerir outras soluções. Para que vejam as diferentes formas de resolver e aprendam mais ideias.
- 
