@@ -1,3 +1,0 @@
-function simpleArraySum(ar) {
-    //todo
-}

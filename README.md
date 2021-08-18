@@ -1,16 +1,6 @@
 # hackerrank-cloudgirls
-
-  ## Exercise 1 - https://www.hackerrank.com/challenges/simple-array-sum/problem
-  
-  A função recebe um array de inteiros [1,3,4,5] e deve retornar um inteiro com a soma, que nesse caso seria 13. 
-  
-  No exercício temos que preencher a função abaixo:
- 
- ```
- function simpleArraySum(ar) {
-   //todo
- }
-  ```
+  ## Qual nosso objetivo?
+   - Usar esse repositório para resolver exercícios de algoritmos do HackerRank com as mentees do Cloud Girls.
  
   ## Como funciona o MOB?
    - Dado um problema para o grupo de mentees, elas devem pensar em como solucioná-lo.
