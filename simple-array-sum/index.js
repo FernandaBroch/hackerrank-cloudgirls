@@ -1,11 +1,9 @@
-function simpleArraySum(ar) {
+
     function simpleArraySum(ar) {
-        var[] num = [1, 2, 3];
-        for(var c; c < num.length; c++){
-           var soma = num[0] + num[1] + num[2];
+        var soma = 0;
+        for(var i=0; i < ar.length; i++){
+           var soma = soma + ar[i];
         }
         return soma;
      }
      
-     simpleArraySum();
-}
